@@ -2,6 +2,8 @@
 
 Bitwarden 最新版安装包存放仓库，仅做下载站自用，不定期更新
 
+[官网下载页面](https://bitwarden.com/download/)
+
 ## 文件下载
 
 ### 移动应用程序
@@ -11,12 +13,6 @@ Bitwarden 最新版安装包存放仓库，仅做下载站自用，不定期更�
 [com.x8bit.bitwarden.apk](./mobile/com.x8bit.bitwarden.apk)
 
 [com.x8bit.bitwarden.aab](./mobile/com.x8bit.bitwarden.aab)
-
-[com.x8bit.bitwarden-fdroid.apk](./mobile/com.x8bit.bitwarden-fdroid.apk)
-
-[bw-android-apk-sha256.txt](./mobile/bw-android-apk-sha256.txt)
-
-[bw-fdroid-apk-sha256.txt](./mobile/bw-fdroid-apk-sha256.txt)
 
 [mobile-2024.4.0.zip](./mobile/mobile-2024.4.0.zip)
 
